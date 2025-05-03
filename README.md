@@ -20,7 +20,7 @@ I. J. Visseren-Hamakers, K. J. Willis, and C. N. Zayas (eds.). IPBES secretariat
 
 8) Runya Liu et al. "Predicting the Global Extinction Risk for 6569 Species by Applying the Life Cycle Impact Assessment Method to the Impact of Future Land Use Changes", 2024, MDPI sustainability, vol.16
    
-   Data used in this study have not been published. [Poster presentation: 5.08.P-We435 - Location-based global biodiversity extinction damage factor development—Under future land use change impact]
+   ///Data used in this study have not been published. [Poster presentation: 5.08.P-We435 - Location-based global biodiversity extinction damage factor development—Under future land use change impact]///
 
 9) CNN World, "Ukraine’s harvest becomes the new battlefield, as fires blacken its arable heartlands", 2022 [Available: https://edition.cnn.com/2022/07/11/europe/ukraine-harvest-battlefield-intl/index.html]
 
